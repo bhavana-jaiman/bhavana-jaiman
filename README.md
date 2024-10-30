@@ -16,8 +16,7 @@
   
 
 
-
-### Glad to see you here!  
+ 
 Aspiring data scientist driven to tackle real-world challenges through innovative data-driven solutions, fueled by a passion for leveraging insights to make a tangible impact.  
   
 
